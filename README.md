@@ -1,7 +1,7 @@
 # FinalAPI
 
 ## Project Overview
-FinalAPI is the capstone project for the API class. This project demonstrates how to build and interact with a simple RESTful API using ASP.NET Core. The API allows users to manage a collection of cars, supporting basic CRUD (Create, Read, Update, Delete) operations.
+FinalAPI a project for API class. This project demonstrates how to build and interact with a simple RESTful API using ASP.NET Core. The API allows users to manage a collection of cars, supporting basic CRUD (Create, Read, Update, Delete) operations.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
